@@ -13,8 +13,6 @@ import base.dao.LoginDao;
 import base.po.Teller;
 /**
  * 柜员登陆后台处理
- * 2018.7.6
- * 段本庆
  *
  */
 public class LoginServlet extends HttpServlet {

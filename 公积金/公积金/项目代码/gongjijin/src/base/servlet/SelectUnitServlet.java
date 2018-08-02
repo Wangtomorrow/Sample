@@ -13,8 +13,6 @@ import base.dao.UnitDao;
 import base.po.UnitBasicInformation;
 /**
  * 单位信息操作
- * 2018.7.6
- * 段本庆
  */
 public class SelectUnitServlet extends HttpServlet {
 	

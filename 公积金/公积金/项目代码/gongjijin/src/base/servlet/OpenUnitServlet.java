@@ -12,8 +12,6 @@ import base.dao.OpenUnitDao;
 import base.po.UnitBasicInformation;
 /**
  * 用于单位开户业务
- * 2018.7.10
- * 段本庆
  */
 public class OpenUnitServlet extends HttpServlet {
 
