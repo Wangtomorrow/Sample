@@ -1,0 +1,29 @@
+missing module named resource - imported by posix, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named posix - imported by os, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named _posixsubprocess - imported by subprocess, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named 'org.python' - imported by pickle, xml.sax, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named ce - imported by os, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named readline - imported by cmd, code, pdb, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named _winreg - imported by platform, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named java - imported by platform, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named vms_lib - imported by platform, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named termios - imported by tty, getpass, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named grp - imported by shutil, tarfile, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named _dummy_threading - imported by dummy_threading, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+missing module named org - imported by copy, D:\py_工作空间\trans_1.1\trans_version_1.1.py
+runtime module named six.moves - imported by html5lib._inputstream, html5lib.filters.sanitizer
+missing module named 'six.moves.urllib' - imported by 'six.moves.urllib'
+missing module named StringIO - imported by six
+missing module named 'genshi.core' - imported by html5lib.treewalkers.genshi
+missing module named genshi - imported by html5lib.treewalkers.genshi
+missing module named html5lib.treebuilders._base - imported by html5lib.treebuilders, bs4.builder._html5lib
+missing module named datrie - imported by html5lib._trie.datrie
+missing module named 'chardet.universaldetector' - imported by html5lib._inputstream
+missing module named iconv_codec - imported by bs4.dammit
+missing module named chardet - imported by bs4.dammit
+missing module named cchardet - imported by bs4.dammit
+missing module named _scproxy - imported by urllib.request
